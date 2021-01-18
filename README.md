@@ -1,4 +1,8 @@
-###Greetings Fellow Creators! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Greetings Fellow Creators! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+```
+My name is Chadd Frasier
+```
 
 <!--
 **ChaddFrasier/ChaddFrasier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
