@@ -1,12 +1,8 @@
 ## Greetings Fellow Creators! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Chadd Frasier and I'm a Software Developer that graduated from Northern Arizona University. I am currently working as a Web Developer and Machine Learning Researcher for the USGS.
+My name is Chadd Frasier and I'm a Software Developer that graduated from Northern Arizona University. I am currently working as a Web Developer and Machine Learning Researcher for the USGS. I want to go back to school to earn my Master's.
 
-## Recent Activity
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChaddFrasier&show_icons=true&theme=yeblu" />
-
-## Technologies & Toolkit:
-
+### Technologies & Toolkit:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/IDE-VS_Code-informational?style=plastic&logo=visual-studio-code&logoColor=white&color=007ACC)
 
@@ -23,6 +19,11 @@ My name is Chadd Frasier and I'm a Software Developer that graduated from Northe
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=plastic&logo=docker&logoColor=white&color=2981e6)
 ![](https://img.shields.io/badge/Tools-Node.js-informational?style=plastic&logo=node.js&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/Tools-Unity-informational?style=plastic&logo=unity&logoColor=white&color=000000)
+
+
+## Activity
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChaddFrasier&show_icons=true&theme=yeblu" />
+
 
 
 <!--
