@@ -1,4 +1,4 @@
-## Greetings Fellow Creators! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Greetings Fellow Creators! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
 My name is Chadd Frasier and I'm a Software Developer that graduated from Northern Arizona University. I am currently working as a Web Developer and Machine Learning Researcher for the USGS. I want to go back to school to earn my Master's.
 
