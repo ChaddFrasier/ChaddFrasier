@@ -16,9 +16,11 @@ My name is Chadd Frasier and I'm a Software Developer that graduated from Northe
 ![](https://img.shields.io/badge/Lang-Php-informational?style=plastic&logo=php&logoColor=white&color=777BB4)
 ![](https://img.shields.io/badge/Lang-R-informational?style=plastic&logo=r&logoColor=white&color=276DC3)
 
+![](https://img.shields.io/badge/Tools-CMake-informational?style=plastic&logo=cmake&logoColor=white&color=064F8C)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=plastic&logo=docker&logoColor=white&color=2981e6)
 ![](https://img.shields.io/badge/Tools-Node.js-informational?style=plastic&logo=node.js&logoColor=white&color=339933)
-![](https://img.shields.io/badge/Tools-CMake-informational?style=plastic&logo=cmake&logoColor=white&color=064F8C)
+![](https://img.shields.io/badge/Tools-Unity-informational?style=plastic&logo=unity&logoColor=white&color=000000)
+
 
 <!--
 **ChaddFrasier/ChaddFrasier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
