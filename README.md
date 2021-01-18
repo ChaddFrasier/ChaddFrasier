@@ -5,7 +5,7 @@ My name is Chadd Frasier and I'm a Software Developer that graduated from Northe
 
 ## Technologies & Toolkit:
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=#FCC624&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=Linux&logo=#FCC624&logoColor=white&color=2bbc8a)
 
 <!--
 **ChaddFrasier/ChaddFrasier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
