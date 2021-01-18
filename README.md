@@ -10,6 +10,9 @@ My name is Chadd Frasier and I'm a Software Developer that graduated from Northe
 
 ![](https://img.shields.io/badge/Lang-C-informational?style=plastic&logo=c&logoColor=white&color=A8B9CC)
 ![](https://img.shields.io/badge/Lang-C++-informational?style=plastic&logo=C++&logoColor=white&color=00599C)
+![](https://img.shields.io/badge/Lang-C++-informational?style=plastic&logo=cpp&logoColor=white&color=00599C)
+![](https://img.shields.io/badge/Lang-C++-informational?style=plastic&logo=Cpp&logoColor=white&color=00599C)
+![](https://img.shields.io/badge/Lang-C++-informational?style=plastic&logo=c++&logoColor=white&color=00599C)
 ![](https://img.shields.io/badge/Lang-Javascript-informational?style=plastic&logo=javascript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/Lang-Python-informational?style=plastic&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Lang-R-informational?style=plastic&logo=r&logoColor=white&color=276DC3)
