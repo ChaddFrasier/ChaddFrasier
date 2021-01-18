@@ -23,7 +23,7 @@ My name is Chadd Frasier and I'm a Software Developer that graduated from Northe
 
 ### Activity
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ChaddFrasier&hide=contribs&show_icons=true&theme=yeblu&card_width=100px" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaddFrasier&theme=yeblu&" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaddFrasier&theme=yeblu&layout=compact" />
 
 
 
