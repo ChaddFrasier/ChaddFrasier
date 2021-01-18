@@ -3,7 +3,7 @@
 My name is Chadd Frasier and I'm a Software Developer that graduated from Northern Arizona University. I am currently working as a Web Developer and Machine Learning Researcher for the USGS.
 
 ## Recent Activity
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chaddfrasier&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChaddFrasier&theme=tokyonight" />
 
 ## Technologies & Toolkit:
 
