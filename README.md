@@ -5,7 +5,7 @@ My name is Chadd Frasier and I'm a Software Developer that graduated from Northe
 
 ## Technologies & Toolkit:
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white&color=7f04d6)
+![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=plastic&logo=docker&logoColor=white&color=2981e6)
 ![](https://img.shields.io/badge/IDE-VS-Code-informational?style=plastic&logo=visual-studio-code&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/Tools-NodeJS-informational?style=plastic&logo=node.js&logoColor=white&color=339933)
