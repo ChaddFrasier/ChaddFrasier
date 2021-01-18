@@ -2,7 +2,7 @@
 
 My name is Chadd Frasier and I'm a Software Developer that graduated from Northern Arizona University. I am currently working as a Web Developer and Machine Learning Researcher for the USGS. I want to go back to school to earn my Master's.
 
-### Technologies & Toolkit:
+#### Technologies & Toolkit:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/IDE-VS_Code-informational?style=plastic&logo=visual-studio-code&logoColor=white&color=007ACC)
 
