@@ -16,10 +16,10 @@ My name is Chadd Frasier and I'm a Software Developer that graduated from Northe
 
 ![](https://img.shields.io/badge/Tools-Anaconda-informational?style=plastic&logo=anaconda&logoColor=white&color=44A833)
 ![](https://img.shields.io/badge/Tools-CMake-informational?style=plastic&logo=cmake&logoColor=white&color=064F8C)
+![](https://img.shields.io/badge/Tools-Cypress-informational?style=plastic&logo=cypress&logoColor=white&color=172023)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=plastic&logo=docker&logoColor=white&color=2981e6)
 ![](https://img.shields.io/badge/Tools-Node.js-informational?style=plastic&logo=node.js&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/Tools-Unity-informational?style=plastic&logo=unity&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Tools-Cypress-informational?style=plastic&logo=cypress&logoColor=white&color=172023)
 
 
 ### Activity
