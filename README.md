@@ -2,9 +2,9 @@
 
 My name is Chadd Frasier and I'm a Software Developer that graduated from Northern Arizona University. I am currently working as a Web Developer and Machine Learning Researcher for the USGS. I want to go back to school to earn my Master's.
 
-### News
-- Recently, I have been working with Dr.Laszlo Kestay of the USGS to develop a web service for prepairing publication ready figures that can generate icons based on metadata inside of ISIS Cube files. 01/01/2020
-- I have been working on photometric DN value predictions using Lasso and Ridge Regression machine learning algorithms.
+## Current Focus
+- Recently, I have been working with Dr.Laszlo Kestay of the USGS to develop a web service for prepairing publication ready figures that can generate icons based on metadata inside of ISIS Cube files. **01/01/2021**
+- I have been working on photometric DN value predictions using Lasso and Ridge Regression machine learning algorithms. **08/20/2020**
 
 ### Technologies & Toolkit:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white&color=2496ED)
