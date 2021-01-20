@@ -21,13 +21,13 @@ My name is Chadd Frasier and I'm a Software Developer that graduated from Northe
 ![](https://img.shields.io/badge/Tools-Node.js-informational?style=plastic&logo=node.js&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/Tools-Unity-informational?style=plastic&logo=unity&logoColor=white&color=000000)
 
+
 ### Activity
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ChaddFrasier&hide=contribs&show_icons=true&theme=yeblu&card_width=250" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaddFrasier&theme=yeblu&layout=compact&card_width=250" />
 
 
 ### News
-
 - Recently, I have been working with Dr.Laszlo Kestay of the USGS to develop a web service for prepairing publication ready figures that can generate icons based on metadata inside of ISIS Cube files. 01/01/2020
 - I have been working on photometric DN value predictions using Lasso and Ridge Regression machine learning algorithms.
 
