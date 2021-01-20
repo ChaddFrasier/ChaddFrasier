@@ -2,6 +2,10 @@
 
 My name is Chadd Frasier and I'm a Software Developer that graduated from Northern Arizona University. I am currently working as a Web Developer and Machine Learning Researcher for the USGS. I want to go back to school to earn my Master's.
 
+### News
+- Recently, I have been working with Dr.Laszlo Kestay of the USGS to develop a web service for prepairing publication ready figures that can generate icons based on metadata inside of ISIS Cube files. 01/01/2020
+- I have been working on photometric DN value predictions using Lasso and Ridge Regression machine learning algorithms.
+
 ### Technologies & Toolkit:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/IDE-VS_Code-informational?style=plastic&logo=visual-studio-code&logoColor=white&color=007ACC)
@@ -25,11 +29,6 @@ My name is Chadd Frasier and I'm a Software Developer that graduated from Northe
 ### Activity
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ChaddFrasier&hide=contribs&show_icons=true&theme=yeblu&card_width=250" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaddFrasier&theme=yeblu&layout=compact&card_width=250" />
-
-
-### News
-- Recently, I have been working with Dr.Laszlo Kestay of the USGS to develop a web service for prepairing publication ready figures that can generate icons based on metadata inside of ISIS Cube files. 01/01/2020
-- I have been working on photometric DN value predictions using Lasso and Ridge Regression machine learning algorithms.
 
 <!--
 **ChaddFrasier/ChaddFrasier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
