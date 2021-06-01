@@ -3,6 +3,8 @@
 My name is Chadd Frasier and I'm a Software Developer that graduated from Northern Arizona University. I am currently working as a Web Developer and Machine Learning Researcher for the USGS. I want to go back to school to earn my Master's.
 
 ## Recent Works
+- GDAL Geospacial data processing has been completed in PIE. **06/01/2021**
+- PIE will be a topic in the 2021 Planetary Data Workshop where I have been chosen to present the project. **05/18/2021**
 - Recently, I have been working with Dr.Laszlo Kestay of the USGS to develop a web service for prepairing publication ready figures that can generate icons based on metadata inside of ISIS Cube files. **01/01/2021**
 - I have been working on photometric DN value predictions using Lasso and Ridge Regression machine learning algorithms. **08/20/2020**
 
