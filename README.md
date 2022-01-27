@@ -1,12 +1,7 @@
 # Greetings Fellow Creators! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
-My name is Chadd Frasier and I'm a Software Developer that graduated from Northern Arizona University. I am currently working as a Web Developer and Machine Learning Researcher for the USGS.
+My name is Chadd Frasier and I'm a Software Developer that graduated from Northern Arizona University. In my early programming career I was a contracted software developer for the United States Geological Survey where I headed the development of a web based IO photo editing application called [PIE](https://github.com/ChaddFrasier/PIE) that was capable of large data processing on the backend. I am currently working for Microchip Technology Corp. where I am a part of the MCU8 Applications team. Our team is responsible for many middleware libraries used for microcontroller programming.
 
-## Recent Works
-- GDAL Geospacial data processing has been completed in PIE. **06/01/2021**
-- PIE will be a topic in the 2021 Planetary Data Workshop where I have been chosen to present the project. **05/18/2021**
-- Recently, I have been working with Dr.Laszlo Kestay of the USGS to develop a web service for prepairing publication ready figures that can generate icons based on metadata inside of ISIS Cube files. **01/01/2021**
-- I have been working on photometric DN value predictions using Lasso and Ridge Regression machine learning algorithms. **08/20/2020**
 
 ### Technologies & Toolkit:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white&color=2496ED)
