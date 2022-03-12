@@ -1,6 +1,6 @@
 # Greetings Fellow Creators! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
-My name is Chadd Frasier and I'm a Software Developer that graduated from Northern Arizona University. In my early programming career I was a contracted software developer for the United States Geological Survey where I headed the development of a web based IO photo editing application called [PIE](https://github.com/ChaddFrasier/PIE) that was capable of large data processing on the backend. I am currently working for Microchip Technology Corp. where I am a part of the MCU8 Applications team. Our team is responsible for many middleware libraries used for microcontroller programming.
+My name is Chadd Frasier and I'm a Software Developer that graduated from Northern Arizona University. In my early programming career I was a contracted software developer for the United States Geological Survey where I headed the development of a web based IO raster editing application called [PIE](https://github.com/ChaddFrasier/PIE) that was capable of large data processing with Node.JS. I am currently working for Microchip Technology Corp. where I am a part of the MCU8 Applications team. Our team is responsible for middleware development for 8-bit PIC and AVR microcontrollers.
 
 
 ### Technologies & Toolkit:
@@ -10,7 +10,8 @@ My name is Chadd Frasier and I'm a Software Developer that graduated from Northe
 ![](https://img.shields.io/badge/Lang-C-informational?style=plastic&logo=c&logoColor=white&color=A8B9CC)
 ![](https://img.shields.io/badge/Lang-C++-informational?style=plastic&logo=c%2B%2B&logoColor=white&color=00599C)
 ![](https://img.shields.io/badge/Lang-C_Sharp-informational?style=plastic&logo=c-sharp&logoColor=white&color=239120)
-![](https://img.shields.io/badge/Lang-Javascript-informational?style=plastic&logo=javascript&logoColor=white&color=F7DF1E)
+![](https://img.shields.io/badge/Lang-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=FFFF00)
+![](https://img.shields.io/badge/Lang-TypeScript-informational?style=plastic&logo=javascript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/Lang-Python-informational?style=plastic&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Lang-Php-informational?style=plastic&logo=php&logoColor=white&color=777BB4)
 ![](https://img.shields.io/badge/Lang-R-informational?style=plastic&logo=r&logoColor=white&color=276DC3)
@@ -21,11 +22,6 @@ My name is Chadd Frasier and I'm a Software Developer that graduated from Northe
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=plastic&logo=docker&logoColor=white&color=2981e6)
 ![](https://img.shields.io/badge/Tools-Node.js-informational?style=plastic&logo=node.js&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/Tools-Unity-informational?style=plastic&logo=unity&logoColor=white&color=000000)
-
-
-### Activity
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ChaddFrasier&hide=contribs&show_icons=true&theme=yeblu&card_width=250" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaddFrasier&theme=yeblu&layout=compact&card_width=250" />
 
 <!--
 **ChaddFrasier/ChaddFrasier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
