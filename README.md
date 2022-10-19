@@ -1,6 +1,6 @@
 # Greetings Fellow Creators! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="8%">
 
-My name is Chadd Frasier and I'm a Software and Firmware Developer that graduated from Northern Arizona University. In my early programming career I was a contracted software developer for the United States Geological Survey where I headed the development of a web based IO raster editing application called [PIE](https://github.com/ChaddFrasier/PIE) that was capable of large data processing with Node.JS. I am currently working for Microchip Technology Corp. where I am a part of the MCU8 Applications team. Our team is responsible for middleware development for 8-bit PIC and AVR microcontrollers.
+My name is Chadd Frasier and I'm a Software and Firmware Developer that graduated from Northern Arizona University. In my early programming career I was a contracted software developer for the United States Geological Survey. I am currently working for Microchip Technology Inc. where I am a part of the MCU8 Applications team. Our team writes middleware for 8-bit PIC and AVR microcontrollers. I also develop some OSS in my spare time. I am currently leading the development of the [redux-feature-generator](https://www.npmjs.com/package/redux-feature-generator).
 
 
 ### Technologies & Toolkit:
