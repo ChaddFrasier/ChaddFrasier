@@ -20,8 +20,11 @@ My name is Chadd Frasier and I'm a Software and Firmware Developer that graduate
 ![](https://img.shields.io/badge/Lang-Php-informational?style=plastic&logo=php&logoColor=white&color=777BB4)
 ![](https://img.shields.io/badge/Lang-R-informational?style=plastic&logo=r&logoColor=white&color=276DC3)
 
+![](https://img.shields.io/badge/Tools-Jenkins-informational?style=plastic&logo=jenkins&logoColor=white&color=D24939)
+![](https://img.shields.io/badge/Tools-Atlassian-informational?style=plastic&logo=atlassian&logoColor=white&color=0052CC)
 ![](https://img.shields.io/badge/Tools-Anaconda-informational?style=plastic&logo=anaconda&logoColor=green&color=44A833)
 ![](https://img.shields.io/badge/Tools-CMake-informational?style=plastic&logo=cmake&logoColor=white&color=064F8C)
+![](https://img.shields.io/badge/Tools-GNU-informational?style=plastic&logo=gnu&logoColor=white&color=A42E2B)
 ![](https://img.shields.io/badge/Tools-Cypress-informational?style=plastic&logo=cypress&logoColor=white&color=172023)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=plastic&logo=docker&logoColor=lightblue&color=2981e6)
 ![](https://img.shields.io/badge/Tools-Node.js-informational?style=plastic&logo=node.js&logoColor=green&color=339933)
